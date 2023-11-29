@@ -1,9 +1,9 @@
 
-# Hi there 👋, my name is Shakil
+# Hi there 👋, I'm Shakil
 ## A passionate MERN-stack developer from Bangladesh
 ![A passionate frontend developer from Bangladesh](https://i.ibb.co/Ln0W7zr/shakil-s-banner.jpg)
 
-As a MERN-stack developer, I possess extensive knowledge of HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and can create responsive web designs. Additionally, I am proficient in ES6, React JS, Node JS, and Express JS. My work is characterized by a strong attention to detail and a focus on developing visually appealing websites that provide users with an immersive experience. With my excellent communication skills and collaborative nature, I excel at working in cross-functional teams to deliver outstanding results. Let's connect and discuss how I can contribute to your projects and help you achieve your development goals.
+As a MERN-stack developer, I possess extensive knowledge of HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS, and can create responsive web designs. Additionally, I am proficient in ES6, React JS, Node JS, and Express JS. My work is characterized by a strong attention to detail and a focus on developing visually appealing websites that provide users with an immersive experience. With my excellent communication skills and collaboration, I excel at working in cross-functional teams to deliver outstanding results. Let's connect and discuss how I can contribute to your projects and help you achieve your development goals.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil57375&label=Profile%20views&color=0e75b6&style=flat" alt="shakil57375" /> </p>
 
