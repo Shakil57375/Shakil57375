@@ -9,7 +9,7 @@ As a MERN-stack developer, I possess extensive knowledge of HTML, CSS, JavaScrip
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakil57375" alt="shakil57375" /></a> </p>
 
-- 🔭 I’m currently working on [Project Pilot](https://style-sync-client.vercel.app/)
+- 🔭 I’m currently working on [Style Sync](https://style-sync-client.vercel.app/)
 
 - 🌱 I’m currently learning **Mongoose, Typescript**
 
