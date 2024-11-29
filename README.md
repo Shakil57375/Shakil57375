@@ -7,7 +7,7 @@ As a MERN-stack developer, I possess extensive knowledge of HTML, CSS, JavaScrip
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil57375&label=Profile%20views&color=0e75b6&style=flat" alt="shakil57375" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakil57375" alt="shakil57375" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://i.ibb.co.com/h8SqqZ0/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="shakil57375" /></a> </p>
 
 - 🔭 I’m currently working on [Style Sync](https://style-sync-client.vercel.app/)
 
