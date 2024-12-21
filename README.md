@@ -79,7 +79,8 @@ As a MERN-stack developer, I possess extensive knowledge of **HTML, CSS, JavaScr
 
 - 🌈 **Activity Graph:**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shakil57375&theme=dracula&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shakil57375&theme=dracula&hide_border=true&area=true)
+
 
 ---
 
@@ -100,5 +101,7 @@ As a MERN-stack developer, I possess extensive knowledge of **HTML, CSS, JavaScr
 ### 📈 Contribution Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakil57375&theme=radical" alt="Wakatime Stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shakil57375&api_key=waka_56c00f1c-105e-4c25-85e8-7eedf5e0d1ee&theme=radical" alt="Wakatime Stats">
 </p>
+
+
