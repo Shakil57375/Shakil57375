@@ -73,7 +73,6 @@ As a MERN-stack developer, I possess extensive knowledge of **HTML, CSS, JavaScr
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakil57375&show_icons=true&locale=en&theme=radical" alt="shakil57375" />
 </p>
----
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakil57375&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakil57375" />
 </p>
