@@ -70,19 +70,6 @@ As a MERN-stack developer, I possess extensive knowledge of **HTML, CSS, JavaScr
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakil57375&theme=radical" alt="shakil57375" />
 </p>
 
----
-
-### ✨ Fun Animations:
-- 🐍 **Snake Game:**
-
-![GitHub Snake Animation](https://github.com/shakil57375/shakil57375/blob/output/github-contribution-grid-snake.svg)
-
-- 🌈 **Activity Graph:**
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shakil57375&theme=dracula&hide_border=true&area=true)
-
-
----
 
 ### 🏆 Achievements:
 <p align="center">
@@ -97,11 +84,3 @@ As a MERN-stack developer, I possess extensive knowledge of **HTML, CSS, JavaScr
 </p>
 
 ---
-
-### 📈 Contribution Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shakil57375&api_key=waka_56c00f1c-105e-4c25-85e8-7eedf5e0d1ee&theme=radical" alt="Wakatime Stats">
-</p>
-
-
