@@ -68,7 +68,7 @@ As a MERN-stack developer, I possess extensive knowledge of **HTML, CSS, JavaScr
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote">
 </p>
-
+---
 ### 📊 GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakil57375&show_icons=true&locale=en&theme=radical" alt="shakil57375" />
