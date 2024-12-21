@@ -24,9 +24,9 @@ As a MERN-stack developer, I possess extensive knowledge of HTML, CSS, JavaScrip
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kGri4ATYHcXqJq7zcGthxx6gUjOjSGMe/view?usp=sharing](https://drive.google.com/file/d/1kGri4ATYHcXqJq7zcGthxx6gUjOjSGMe/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy turning complex UI challenges into delightful user experiences! 🚀✨ #FrontEndMagic"**
-
+<a href="https://info.flagcounter.com/JqTb"><img src="https://s05.flagcounter.com/count2/JqTb/bg_3B3B3B/txt_FFFFFF/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 <h3 align="left">Connect with me:</h3>
-![Flag Counter](https://s05.flagcounter.com/count2/JqTb/bg_3B3B3B/txt_FFFFFF/border_CCCCCC/)
+
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/shakil-hossain-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shakil-hossain-the-bashful" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shakil-hossian-757817263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakil-hossian-757817263/" height="30" width="40" /></a>
