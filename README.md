@@ -73,13 +73,13 @@ As a MERN-stack developer, I possess extensive knowledge of **HTML, CSS, JavaScr
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakil57375&show_icons=true&locale=en&theme=radical" alt="shakil57375" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shakil57375&show_icons=true&locale=en&theme=radical" alt="Shakil57375" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakil57375&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakil57375" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shakil57375&show_icons=true&locale=en&layout=compact&theme=radical" alt="Shakil57375" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakil57375&theme=radical" alt="shakil57375" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakil57375&theme=radical" alt="Shakil57375" />
 </p>
 
