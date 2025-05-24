@@ -17,7 +17,7 @@ As a MERN-stack developer, I possess extensive knowledge of **HTML, CSS, JavaScr
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/shakil-hossian-757817263/)
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 Reach me at **shakil57375@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1kGri4ATYHcXqJq7zcGthxx6gUjOjSGMe/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1sZe9V01XfmVvCNiS3HhbhIEj39Xut4wJ/view?usp=sharing)
 - ⚡ Fun fact: **I enjoy turning complex UI challenges into delightful user experiences! 🚀✨**
 
 ---
